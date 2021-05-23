@@ -1,0 +1,50 @@
+{
+    "editor.fontSize": 13,
+    "editor.fontWeight": "500",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "explorer.confirmDelete": false,
+    "extensions.ignoreRecommendations": true,
+    "rust.cfg_test": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "hediet.vscode-drawio.local-storage": {
+        ".drawio-config": {
+            "language": "",
+            "customFonts": [],
+            "libraries": "general;uml;er;bpmn;flowchart;basic;arrows2",
+            "customLibraries": [
+                "L.scratchpad"
+            ],
+            "plugins": [],
+            "recentColors": [],
+            "formatWidth": "240",
+            "createTarget": false,
+            "pageFormat": {
+                "x": 0,
+                "y": 0,
+                "width": 827,
+                "height": 1169
+            },
+            "search": true,
+            "showStartScreen": true,
+            "gridColor": "#d0d0d0",
+            "darkGridColor": "#6e6e6e",
+            "autosave": true,
+            "resizeImages": null,
+            "openCounter": 0,
+            "version": 18,
+            "unit": 1,
+            "isRulerOn": false
+        }
+    },
+    "tabnine.experimentalAutoImports": true,
+    "rust.rustfmt_path": "$HOME/.cargo/bin/rustfmt",
+    "rust.clippy_preference": "on"
+}
